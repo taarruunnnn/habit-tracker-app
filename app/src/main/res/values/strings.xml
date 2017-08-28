@@ -1,0 +1,63 @@
+<resources>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Habit Tracker</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Title for the activity to add a new activity [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_activity">Add an activity</string>
+
+    <!-- Label for editor menu option to save an activity and leave the editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for Main category of attributes for the activity [CHAR LIMIT=30] -->
+    <string name="category_main">Main</string>
+
+    <!-- Label for time-related information for the activity [CHAR LIMIT=30] -->
+    <string name="category_time">Time</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_place">Place</string>
+
+    <!-- Text hint for description field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_activity_description">Description</string>
+
+    <!-- Text hint for duration field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_activity_duration">Duration</string>
+
+    <!-- Units for duration of an activity (minutes) [CHAR LIMIT=5] -->
+    <string name="unit_activity_duration">min</string>
+
+    <!-- Text hint for place field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_activity_place">Location</string>
+
+    <!-- Label for dropdown menu option if the activity's category is health [CHAR LIMIT=20] -->
+    <string name="category_health">Health</string>
+
+    <!-- Label for dropdown menu option if the activity's category is spiritual [CHAR LIMIT=20] -->
+    <string name="category_spiritual">Spiritual</string>
+
+    <!-- Label for dropdown menu option if the activity's category is intellectual [CHAR LIMIT=20] -->
+    <string name="category_intellectual">Intellectual</string>
+
+    <!-- Label for dropdown menu option if the activity's category is manual [CHAR LIMIT=20] -->
+    <string name="category_manual">Manual</string>
+
+    <!-- Label for dropdown menu option if the activity's category is social [CHAR LIMIT=20] -->
+    <string name="category_social">Social</string>
+
+    <!-- Label for dropdown menu option if the activity's moment is dawn [CHAR LIMIT=20] -->
+    <string name="moment_dawn">Dawn</string>
+
+    <!-- Label for dropdown menu option if the activity's moment is morning [CHAR LIMIT=20] -->
+    <string name="moment_morning">Morning</string>
+
+    <!-- Label for dropdown menu option if the activity's moment is afternoon [CHAR LIMIT=20] -->
+    <string name="moment_afternoon">Afternoon</string>
+
+    <!-- Label for dropdown menu option if the activity's moment is evening [CHAR LIMIT=20] -->
+    <string name="moment_evening">Evening</string>
+
+    <!-- Label for dropdown menu option if the activity's moment is night [CHAR LIMIT=20] -->
+    <string name="moment_night">Night</string>
+</resources>
