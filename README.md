@@ -13,9 +13,9 @@ This program was composed of 5 courses:
 
 ---
 
---> This project was the first project of the "Databases" course (Project #9 of the program).
+--> This project was part of the "Databases" course (Project #9 of the program).
 
---> The goal was to design and create the structure of a Habit Tracking app which would allow a user to store and track their habits over time. The specifications did not require to have any UI components, but I decided to build a usable app.
+--> The goal was to design and create the structure of a Habit Tracking app, which would allow a user to store and track their habits over time. The specifications did not require to have any UI components, but I decided to build a usable app.
 
 --> Project specifications can be found [here](documentation/udacity-abn-habit-tracker-app-specifications.pdf).
 
